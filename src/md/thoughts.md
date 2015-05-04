@@ -1,5 +1,7 @@
 ## Thoughts
 
+Here are some thoughts I had while coming up with this game.
+
 ### How pervasive should it be, really?
 
 *   playable in one sitting (~30-60 mins)

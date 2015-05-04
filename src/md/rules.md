@@ -1,11 +1,3 @@
-# Surveil
-
-## A pervasive game, suited for `8 to ∞` players.
-
-## Products
-
-### ITERATION ONE
-
 *   To enter the game:
     *   post a clear, identifiable picture of yourself on the public internet with the tag `#surveiling`.
         *   you must now avoid being *spotted*. You are in the role `citizen`.
