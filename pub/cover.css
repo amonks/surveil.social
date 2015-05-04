@@ -24,7 +24,7 @@ body {
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #ff99ff;
 }
 
 /* Custom default button */
@@ -129,18 +129,14 @@ body {
   padding: 20px;
   width: 300px;
   margin: auto;
+  margin-top: 20px;
   margin-bottom: 20px;
   background-color: #222222;
   opacity: .8;
 }
 
-.cover .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
-}
-
 /*
- * block
+ * unit
  */
 
 .unit {
@@ -153,10 +149,18 @@ body {
   opacity: .8;
 }
 
-.unit .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
+/*
+ * footer
+ */
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  margin-bottom: 20px;
 }
+
 
 
 /*

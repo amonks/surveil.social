@@ -26,7 +26,7 @@ Here are some thoughts I had while coming up with this game.
 
 #### on one hand
 
-Surveilance is everywhere — you can't turn it off. If I make the game ongoing (birdman fancyman, 'the game'), it reflects that quality of surveillance. The classic ongoing games are very simple because they can't rely on anything that isn't everywhere, you only need to be present. In 2015, though, every person comes with a small computer (phone). Relying on technology is a slippery slope, though: the game can't depend on a particular app or website, only something more fundamental.
+Surveillance is everywhere — you can't turn it off. If I make the game ongoing (birdman fancyman, 'the game'), it reflects that quality of surveillance. The classic ongoing games are very simple because they can't rely on anything that isn't everywhere, you only need to be present. In 2015, though, every person comes with a small computer (phone). Relying on technology is a slippery slope, though: the game can't depend on a particular app or website, only something more fundamental.
 
 ##### List of technologies that will be everywhere forever:
 
@@ -117,7 +117,7 @@ I can have materials, costumes, and best-of-all, *complete focus* from the playe
 
 [paparazzi (sandpit)](http://ludocity.org/wiki/Paparazzi) has better role-playing, with a swarm mentality rather than small teams. The feeling of being stalked is more pervasive.
 
-[schniper](http://ludocity.org/wiki/Schniper) successfully implements 1v1 same-role surveilance // sneaking, *with* walkie taklies.
+[schniper](http://ludocity.org/wiki/Schniper) successfully implements 1v1 same-role surveillance // sneaking, *with* walkie taklies.
 
 [birdman fancyman](http://www.urbandictionary.com/define.php?term=Bird-Man+%5Bthe+game%5D) uses rules that rhyme to help the game maintain consistancy country-wide. induces a constant feeling of fear, but makes you avoid looking at people rather than surveil them per se. Even so, the birdman role feels kinda surveilly
 
