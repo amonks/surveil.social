@@ -1,18 +1,17 @@
 // thoughts
 
-extends ./layout.jade
+extends ./boring.jade
 
 block style
   link(href='/jumbotron-narrow.css', rel='stylesheet')
 
 block nav
   li
-    a(href='/') Surveil
-  li
-    a(href='/rules') Rules
+    a(href='/') Rules
   li.active
     a(href='/thoughts') Thoughts
 
 block inner
-  h1.cover-heading Thoughts
-  include:markdown ../md/thoughts.md
+  .inner.cover
+    h1.cover-heading Thoughts
+    include:markdown ../md/thoughts.md

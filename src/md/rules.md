@@ -1,10 +1,31 @@
-*   To enter the game:
-    *   post a clear, identifiable picture of yourself on the public internet with the tag `#surveiling`.
-        *   you must now avoid being *spotted*. You are in the role `citizen`.
+Surveil takes place in public. Both in public physical space, and on the public internet.
 
-*  *spot* another player on camera. You are in the role `camera`
-    *   take a picture, post it publicly with the `#spotted` tag. Don't tag the player. The picture must include the surveillance infrastructure and the player being surveilled.
+## Starting
 
-*   As you see images tagged `#spotted`, collect them. You are in the role `surveillor`
-    *   If you see someone [in person] who has been `#spotted`, you have surveilled them. Show them the `#spotted` picture, the `#surveil` picture, and say `you've been surveilled`.
-        *   The `surveilled` player must take a picture with you and post it publicly, tagged `#gotme`
+To enter the game, post a clear, identifiable picture of yourself on the public internet with the tag `#surveiling`.
+
+You are now playing.
+
+## Playing
+
+You have three objectives:
+
+*   *spot* others
+*   *surveil* spottings
+*   *avoid* being spotted
+
+### Spotting
+
+If you encounter another player under the watchful gaze of public surveillance infrastructure, take a picture.
+
+Post that picture on the public internet with the tag `#spotted`. Do not tag the victim. The picture must include the surveillance infrastructure and the player being surveilled.
+
+### Surveiling
+
+*Surveil* the public internet for `#spotted` pictures. If you encounter a player and you've collected three `#spotted` pictures of them, *taken by three different people* (you can be one of them), approach them and say `You've been surveilled`. You must be able to show them the pictures you've collected as proof.
+
+The *surveilled* player must player must take a picture with you and post it on the public internet, tagged `#gotme`
+
+### Avoiding
+
+Any time you're on camera, you're liable to get `#spotted`. Be constantly aware of surveilance infrastructure, and avoid its gaze at all costs.
