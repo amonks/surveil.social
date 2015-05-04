@@ -1,5 +1,3 @@
-## Thoughts
-
 Here are some thoughts I had while coming up with this game.
 
 ### How pervasive should it be, really?
