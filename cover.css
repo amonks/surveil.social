@@ -142,7 +142,7 @@ body {
 .unit {
   text-align: left;
   padding: 20px;
-  width: 500px;
+  width: 400px;
   margin: auto;
   margin-bottom: 20px;
   background-color: #222222;
@@ -156,7 +156,7 @@ body {
 .footer {
   text-align: center;
   padding: 20px;
-  width: 500px;
+  width: 300px;
   margin: auto;
   margin-bottom: 20px;
 }
