@@ -2,7 +2,7 @@
  * Globals
  */
 
-body {
+html {
   background-image: url('/cameras.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
