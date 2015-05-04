@@ -1,0 +1,21 @@
+// index
+
+extends ./cover.jade
+
+block nav
+  li.active
+    a(href='/') Home
+  li
+    a(href='/info') Info
+  include ./_artists.jade
+  li
+    a(href='https://www.facebook.com/events/1057019467647590/') Facebook
+
+block inner
+  h1.cover-heading WUNDER
+  p.lead
+    | May 2, 2015
+  p.lead
+    a(href='http://hiddendog.net/') 6PM @ Hidden Dog
+  p.lead
+    a.btn.btn-lg.btn-default(href='https://www.facebook.com/events/1057019467647590/') Facebook Event
