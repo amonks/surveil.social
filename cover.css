@@ -140,11 +140,30 @@ body {
 }
 
 /*
- * block
+ * unit
  */
 
 .unit {
   text-align: left;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: #222222;
+  opacity: .8;
+}
+
+.unit .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+/*
+ * footer
+ */
+
+.footer {
+  text-align: center;
   padding: 20px;
   width: 500px;
   margin: auto;
