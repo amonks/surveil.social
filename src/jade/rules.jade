@@ -1,0 +1,15 @@
+// rules
+
+extends ./layout.jade
+
+block nav
+  li
+    a(href='/') Home
+  li.active
+    a(href='/rules') Rules
+  li
+    a(href='/thoughts') Thoughts
+
+block inner
+  h1.cover-heading Rules
+  include:markdown ../md/rules.md
